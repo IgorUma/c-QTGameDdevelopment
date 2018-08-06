@@ -1,0 +1,13 @@
+<RCC>
+    <qresource prefix="/sounds">
+        <file>07 - That's Alright Mama.mp3</file>
+        <file>Gun+Luger.wav</file>
+        <file>Gun+Clip.mp3</file>
+    </qresource>
+    <qresource prefix="/images">
+        <file>bg.jpg</file>
+        <file>enimy.png</file>
+        <file>enimy2.png</file>
+        <file>rocket.jpg</file>
+    </qresource>
+</RCC>
